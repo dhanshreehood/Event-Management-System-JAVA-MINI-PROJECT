@@ -1,0 +1,2 @@
+# Event-Management-System-JAVA-MINI-PROJECT
+JAVA MINI PROJECT
